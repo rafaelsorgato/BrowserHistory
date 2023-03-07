@@ -15,7 +15,7 @@ the entire code is documented for easy understanding.
 
 
 If you want do download the visual studio project: 
-https://drive.google.com/file/d/1VLHXLV82HM4GcG--rtvFXwaDTQqWn6JD/view?usp=share_link
+https://github.com/rafaelsorgato/BrowserHistory/tree/main/BrowserHistory
 
 If you want to download the program.exe: 
-https://drive.google.com/file/d/1PBzUsMs0lFLLnmyC_yvwfsTxGMvfof5w/view?usp=share_link
+https://github.com/rafaelsorgato/BrowserHistory/blob/main/BrowserHistory.exe
