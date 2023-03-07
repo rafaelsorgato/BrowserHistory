@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>preview.ico</ApplicationIcon>
+    <FileVersion>1.0</FileVersion>
+    <NeutralLanguage>pt-BR</NeutralLanguage>
+    <PackageReleaseNotes>Versão inicial</PackageReleaseNotes>
+    <Authors>Rafael Sorgato</Authors>
+    <Title>BrowserHistory</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="preview.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Stub.System.Data.SQLite.Core.NetFramework" Version="1.0.117" />
+  </ItemGroup>
+
+</Project>

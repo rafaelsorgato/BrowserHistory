@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydXbz8kgCcv2LeylKG8sOFRP9VT4fNcQtZpb+Szt+R0r75w2qQZku1LDesgkpn8MGEc2Vyx0s0pDbgUnncfdlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\source\\repos\\BrowserHistory\\BrowserHistory\\BrowserHistory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.117\\stub.system.data.sqlite.core.netframework.1.0.117.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Stub.System.Data.SQLite.Core.NetFramework 1.0.117' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net7.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Stub.System.Data.SQLite.Core.NetFramework",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
