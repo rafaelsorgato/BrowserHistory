@@ -1,5 +1,5 @@
 
-VISUAL STUDIO C# : SIMPLE FORENSIC TOOL TO GET HISTORY OF BROWSER (CHROME, FIREFOX, EDGE AND OPERAGX)
+# VISUAL STUDIO C# : SIMPLE FORENSIC TOOL TO GET HISTORY OF BROWSER (CHROME, FIREFOX, EDGE AND OPERAGX)
 Hello, this project was created in Visual Studio (C#) to acquire the history of the user's browsers. This project can be improved in many ways (example: getting history from other computer users), feel free to comment on any improvements you have made.
 
 
